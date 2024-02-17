@@ -8,7 +8,10 @@ alias vim=nvim
 alias top=htop
 
 ## FD is find
-alias find=fd
+alias find=fdfind
+
+## K is kubectl
+alias k=kubectl
 
 ## Colorize the grep command output for ease of use (good for log files)##
 alias grep="grep --color=auto"
