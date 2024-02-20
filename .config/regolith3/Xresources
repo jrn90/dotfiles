@@ -1,0 +1,22 @@
+! i3 
+wm.gaps.inner.size: 15
+wm.window.border.size: 2
+wm.bar.font: CaskaydiaCove Nerd Font 12
+wm.workspace.01.name: 1:<span> </span>1 <span foreground='#73B8FF'></span><span> </span>
+wm.workspace.02.name: 2:<span> </span>2 <span foreground='#EE8424'></span><span> </span>
+wm.workspace.03.name: 3:<span> </span>3 <span foreground='#0098FF'>󰨞</span><span> </span>
+wm.workspace.06.name: 6:<span> </span>6 <span foreground='#D2A6FF'>󰊻</span><span> </span>
+
+! gnome
+gnome.terminal.font: CaskaydiaCove NF Regular 12
+gnome.terminal.background-transparency-percent: 5
+gnome.terminal.use-transparent-background: true
+
+! gtk
+gtk.theme_name: Adwaita-dark
+gtk.font_name: Ubuntu Regular 11
+gtk.monospace_font_name: CaskaydiaCove NF Mono 12
+
+! regolith
+regolith.look.path: /usr/share/regolith-look/ayu-dark
+regolith.wallpaper.file: /home/joe/Pictures/wall.png
