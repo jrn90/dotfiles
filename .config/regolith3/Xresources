@@ -6,6 +6,8 @@ wm.workspace.01.name: 1:<span> </span>1 <span foreground='#73B8FF'></span><sp
 wm.workspace.02.name: 2:<span> </span>2 <span foreground='#EE8424'></span><span> </span>
 wm.workspace.03.name: 3:<span> </span>3 <span foreground='#0098FF'>󰨞</span><span> </span>
 wm.workspace.06.name: 6:<span> </span>6 <span foreground='#D2A6FF'>󰊻</span><span> </span>
+wm.workspace.08.name: 8:<span> </span>8 <span foreground='#7289DA'>󰙯</span><span> </span>
+wm.workspace.10.name: 10:<span> </span>10 <span foreground='#1DB954'></span><span> </span>
 
 ! gnome
 gnome.terminal.font: CaskaydiaCove NF Regular 12
