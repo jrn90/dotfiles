@@ -1,0 +1,19 @@
+[alias]
+  lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+
+[core]
+  editor = nvim
+
+[init]
+  defaultBranch = master
+
+[pull]
+  rebase = false
+
+[user]
+	email = github@jrn90.com
+  name = Joe Nash
+  username = jrn90
+
+[web]
+  browser = firefox
